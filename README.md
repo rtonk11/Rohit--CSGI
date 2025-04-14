@@ -6,6 +6,11 @@ Important points for the sample project.
 2)Swagger UI dependency has been set up and the APIs can be viewed from http://localhost:8080/swagger-ui.html
 3)Testing has been performed by using the Open API UI testing utilities and also by Postman.
 4)Sample file has been used from local machine to work upon.
+    Content of this file is -
+    
+    My name is Rohit Tonk and I am 36 years old.
+    My wife name is Pragya tonk and my son's name is Shaurya Tonk.
+
 5)2 seperate functions are created for the below 2 tasks.
 
     Count Words Coding Assignment
